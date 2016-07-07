@@ -1,8 +1,5 @@
-package br.com.renato.ws.model;
+package br.com.renato.ws.domain;
 
-/**
- * Created by renato on 04/07/16.
- */
 public class Cliente {
 
     private Integer id;
